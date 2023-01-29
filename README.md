@@ -25,8 +25,24 @@ Aqui, a função map é usada para aplicar a operação chomp a cada elemento de
 Utilizamos o techo de código do exemplo anterior para demonstrarmos a aplicação de funções de primeira ordem neste programa. 
 A função "map" é usada para aplicar a expressão lambda chomp a cada elemento da lista de strings. Chomp é passado como argumento para a funão map com o simbolo &. Neste caso como citado na seção Lambda, chomp é tratado como uma função e pode ser passado como argumento para outras funções. Simplificando: Funções de primeira classe são utilizadas nos códigos quando são passadas como argumento para outras funções.
  
+### Aplicação de Map
+```Ruby
+people = (1..100).map do
+    {
+      name: names.sample,
+      address: "#{address.sample} #{rand(100)} #{cities.sample}, #{states.sample} #{rand(10_000)}",
+      email: "#{names.sample.downcase}_#{rand(1000)}@example.com",
+      phone: "+55-#{rand(50_000)}_#{rand(10_000)}",
+      cpf: cpf.sample
+    }
+  end
+  people.each { |person| save_person(person) }
+end
+```
 
-## Running the repl
+Esta função tem o mesmo comportamento de quando são aplicadas em Haskell. Map aplica determinada operação para cada um dos elementos da lista, resultando em uma nova lista com o resultado da execução.
+
+## A aplicação
 
 Simply hit run! You can edit the run command from the `.replit` file.
 
