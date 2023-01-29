@@ -48,8 +48,25 @@ Estrutura:
 - Data.json
 - Person-VarName.json
 
-Os dados para a criação das pessoas são coletados de wordlists encontradas em repositórios do GitHub, os números de CPF foram gerados utilizando o site https://ogeradordecpf.com.br/ que aplicao algoritmo necessário para gerar CPFs de acordo com o padrão estipulado pelas normas brasileiras. 
+Os dados para a criação das pessoas são coletados de wordlists encontradas em repositórios do GitHub, os números de CPF foram gerados utilizando o site https://ogeradordecpf.com.br/ que aplicao algoritmo necessário para gerar CPFs de acordo com o padrão estipulado pelas normas brasileiras. Em seguida todos os dados coletados são centralizados em um único arquivo chamado Data.json, este arquivo é utilizado para ter um controle de quais dados foram acessados e distribuidos pela ferramenta. Ao final, de forma pseudo aleatória os dados são distribuidos em novos dicionários e estes são salvos cada um em um arquivo com a sintaxe: person_NOME.json.
 
+Explicando as funções: 
+- read_data
+- save_person
+- read_wordlist
+- export_datafile
+- open_datafile
+- main
+
+## Exemplos de saída: 
+### Wordlists
+![image](https://user-images.githubusercontent.com/74078237/215344436-7b1b13c0-ea39-4fcd-a44f-e491b3acbd36.png)
+
+### data.json
+![image](https://user-images.githubusercontent.com/74078237/215344420-22d9a7c2-47e1-418f-9e2a-320e08134290.png)
+
+### Person_NAME.json
+![image](https://user-images.githubusercontent.com/74078237/215344469-5a81ace4-f704-4063-acb1-9d06460822d5.png)
 
 
 ## Installing packages
