@@ -1,4 +1,4 @@
-# Ruby Funcional: Criação de pessoas ficticias de forma randomica baseado em wordlists
+# Aplicação de Ruby funcional para a criação de pessoas ficticias pseudo-randomicas baseadas em wordlists
 ![Miniatura thumbnail youtube click bait com foto roxo e verde](https://user-images.githubusercontent.com/74078237/215341011-df83ab68-f414-4448-85da-47374255706c.png)
 ## Descrição:
 
@@ -42,9 +42,15 @@ end
 
 Esta função tem o mesmo comportamento de quando são aplicadas em Haskell. Map aplica determinada operação para cada um dos elementos da lista, resultando em uma nova lista com o resultado da execução.
 
-## A aplicação
+# A aplicação
+Estrutura:
+- Wordlists
+- Data.json
+- Person-VarName.json
 
-Simply hit run! You can edit the run command from the `.replit` file.
+Os dados para a criação das pessoas são coletados de wordlists encontradas em repositórios do GitHub, os números de CPF foram gerados utilizando o site https://ogeradordecpf.com.br/ que aplicao algoritmo necessário para gerar CPFs de acordo com o padrão estipulado pelas normas brasileiras. 
+
+
 
 ## Installing packages
 
