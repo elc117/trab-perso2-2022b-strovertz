@@ -5,8 +5,26 @@
 
 Para atender aos critérios propostos, desenvolvi uma aplicação em Ruby capaz de coletar dados de wordlists e gerar pessoas de forma randomica. Cada usuário é armazenando em um arquivo "chave : 'valor'", neste caso Json que é um formato utilizado para troca de dados simples entre sistemas.
 
-
 ## Ruby Funcional:
+ A aplicação foi desenvolida utilizando técnica de programação funcional, como: 
+  - Utilização de procedures
+  - Expressões lambda
+  - funções de primeira classe
+  - Uso de funções como "map", "reduce" e "filter". 
+
+### Procedures: 
+Blocos de código (procedures) que são passados como argumentos para outras funções
+### Lambda:
+``` ruby
+read_wordlist(file).map(&:chomp)
+```
+Aqui, a função map é usada para aplicar a operação chomp a cada elemento de uma lista de strings. O símbolo & permite que a expressão lambda seja passada como um argumento para a função map. A expressão lambda é uma forma de definir uma função de uma única linha sem a necessidade de dar-lhe um nome. A expressão :chomp é a forma abreviada de escrever { |s| s.chomp }. Ou seja, o símbolo & permite que o método chomp seja tratado como uma função, tornando possível sua passagem como argumento para a função map.
+
+### Funções de primeira classe:
+
+Utilizamos o techo de código do exemplo anterior para demonstrarmos a aplicação de funções de primeira ordem neste programa. 
+A função "map" é usada para aplicar a expressão lambda chomp a cada elemento da lista de strings. Chomp é passado como argumento para a funão map com o simbolo &. Neste caso como citado na seção Lambda, chomp é tratado como uma função e pode ser passado como argumento para outras funções. Simplificando: Funções de primeira classe são utilizadas nos códigos quando são passadas como argumento para outras funções.
+ 
 
 ## Running the repl
 
