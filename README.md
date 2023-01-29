@@ -58,6 +58,9 @@ Explicando as funções:
 - open_datafile
 - main
 
+
+
+
 ## Exemplos de saída: 
 ### Wordlists
 ![image](https://user-images.githubusercontent.com/74078237/215344436-7b1b13c0-ea39-4fcd-a44f-e491b3acbd36.png)
@@ -67,6 +70,15 @@ Explicando as funções:
 
 ### Person_NAME.json
 ![image](https://user-images.githubusercontent.com/74078237/215344469-5a81ace4-f704-4063-acb1-9d06460822d5.png)
+
+# Como rodar o código?
+
+Basta acessar o link disponibilizado abaixo, abrir o shell do replit e selecionar o botão verde "Run": 
+
+## Repositório Repl.it
+https://replit.com/@Gleison-Antonio/Ruby-302#main.rb
+
+
 
 
 ## Installing packages
