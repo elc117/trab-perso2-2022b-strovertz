@@ -89,6 +89,10 @@ To add packages to your repl, we recommend using the Replit packager interface i
 
 Beacuse Ruby repls use [Bundle](https://bundler.io/) under the hood to provide a consistent environment that tracks and installs the exact gems and versions needed, we recommend using `bundle install` instead of `gem install`, which may not work as expected.
 
-## Help
+## Referências
+[1] https://www.rubyguides.com/
+[2] https://ruby-doc.org/
+[3] https://speakerdeck.com/serradura/programacao-funcional-em-ruby-rubyconf-brasil-2018
+[4] https://brizeno.wordpress.com/2013/12/06/conceitos-na-pratica-programacao-funcional-com-ruby/
+[5] https://www.ruby-lang.org/pt/about/
 
-If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
