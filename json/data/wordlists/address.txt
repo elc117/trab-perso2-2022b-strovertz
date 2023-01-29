@@ -1,0 +1,100 @@
+Kabul,Afghanistan
+Luanda,Luanda Province,Angola
+The Valley,Anguilla
+Abu Dhabi,Abu Dhabi,United Arab Emirates
+Ajman,Ajman,United Arab Emirates
+Al Ain,Abu Dhabi,United Arab Emirates
+Dubai,Dubai,United Arab Emirates
+Ras Al-Khaimah,North Ras Al Khaimah,United Arab Emirates
+Salta,Salta Province,Argentina
+Avellaneda,Buenos Aires Province,Argentina
+Bahia Blanca,Buenos Aires Province,Argentina
+Balcarce,Buenos Aires Province,Argentina
+Brandsen,Buenos Aires Province,Argentina
+Campana,Buenos Aires Province,Argentina
+Chacabuco,Buenos Aires Province,Argentina
+Colon,Buenos Aires Province,Argentina
+Del Viso,Pilar,Buenos Aires Province,Argentina
+Isidro Casanova,Buenos Aires Province,Argentina
+Junin,Buenos Aires Province,Argentina
+La Plata,Buenos Aires Province,Argentina
+Lomas de Zamora,Buenos Aires Province,Argentina
+Luis Guillon,Buenos Aires Province,Argentina
+Lujan,Buenos Aires Province,Argentina
+Mar del Plata,Buenos Aires Province,Argentina
+Moron,Buenos Aires Province,Argentina
+Olavarria,Buenos Aires Province,Argentina
+Pergamino,Buenos Aires Province,Argentina
+Pinamar,Buenos Aires Province,Argentina
+Quilmes,Buenos Aires Province,Argentina
+San Antonio de Padua,Buenos Aires Province,Argentina
+San Fernando,Buenos Aires Province,Argentina
+San Isidro,Buenos Aires Province,Argentina
+San Nicolas de los Arroyos,Buenos Aires Province,Argentina
+San Pedro,Buenos Aires Province,Argentina
+Tandil,Buenos Aires Province,Argentina
+Tortuguitas,Buenos Aires Province,Argentina
+Trenque Lauquen,Buenos Aires Province,Argentina
+Vicente Lopez,Buenos Aires Province,Argentina
+Villa Gesell,Buenos Aires Province,Argentina
+Zarate,Buenos Aires Province,Argentina
+Buenos Aires,Buenos Aires,Argentina
+Concepcion del Uruguay,Entre Rios,Argentina
+Gualeguaychu,Entre Rios,Argentina
+Parana,Entre Rios,Argentina
+La Rioja,La Rioja Province,Argentina
+Santiago del Estero,Santiago del Estero Province,Argentina
+Resistencia,Chaco Province,Argentina
+Roque Saenz Pena,Santa Fe Province,Argentina
+San Juan,San Juan Province,Argentina
+Catamarca,Catamarca Province,Argentina
+General Pico,La Pampa Province,Argentina
+Santa Rosa,La Pampa Province,Argentina
+Mendoza,Mendoza Province,Argentina
+San Martin,Mendoza Province,Argentina
+San Rafael,Mendoza Province,Argentina
+Posadas,Misiones Province,Argentina
+Formosa,Formosa Province,Argentina
+Neuquen,Neuquen,Argentina
+San Martin de los Andes,Neuquen,Argentina
+San Carlos de Bariloche,Rio Negro,Argentina
+Viedma,Rio Negro,Argentina
+Rafaela,Santa Fe Province,Argentina
+Rosario,Santa Fe Province,Argentina
+Santa Fe,Santa Fe Province,Argentina
+Venado Tuerto,Santa Fe Province,Argentina
+Villa Constitucion,Santa Fe Province,Argentina
+San Miguel de Tucuman,Tucuman,Argentina
+Comodoro Rivadavia,Chubut Province,Argentina
+Puerto Madryn,Chubut Province,Argentina
+Rio Grande,Tierra del Fuego Province,Argentina
+Ushuaia,Tierra del Fuego Province,Argentina
+Corrientes,Corrientes Province,Argentina
+Cordoba,Cordoba,Argentina
+Rio Cuarto,Cordoba,Argentina
+San Francisco,Cordoba,Argentina
+Villa Maria,Cordoba,Argentina
+Jujuy,Jujuy,Argentina
+Caleta Olivia,Santa Cruz Province,Argentina
+Rio Gallegos,Santa Cruz Province,Argentina
+Saint John's,Antigua and Barbuda
+Canberra,Australian Capital Territory,Australia
+Barwon Downs,Victoria,Australia
+Albury,New South Wales,Australia
+Armidale,New South Wales,Australia
+Ballina,New South Wales,Australia
+Batemans Bay,New South Wales,Australia
+Bathurst,New South Wales,Australia
+Broken Hill,New South Wales,Australia
+Cessnock,New South Wales,Australia
+Coffs Harbour,New South Wales,Australia
+Dubbo,New South Wales,Australia
+Goulburn,New South Wales,Australia
+Grafton,New South Wales,Australia
+Griffith,New South Wales,Australia
+Kiama,New South Wales,Australia
+Victoria Point,Queensland,Australia
+Katoomba,New South Wales,Australia
+Lismore,New South Wales,Australia
+Lithgow,New South Wales,Australia
+Maitland,New South Wales,Australia

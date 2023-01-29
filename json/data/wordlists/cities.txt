@@ -1,0 +1,100 @@
+Kabul
+Luanda
+The Valley
+Abu Dhabi
+Ajman
+Al Ain
+Dubai
+Ras Al-Khaimah
+Salta
+Avellaneda
+Bahia Blanca
+Balcarce
+Brandsen
+Campana
+Chacabuco
+Colon
+Del Viso
+Isidro Casanova
+Junin
+La Plata
+Lomas de Zamora
+Luis Guillon
+Lujan
+Mar del Plata
+Moron
+Olavarria
+Pergamino
+Pinamar
+Quilmes
+San Antonio de Padua
+San Fernando
+San Isidro
+San Nicolas de los Arroyos
+San Pedro
+Tandil
+Tortuguitas
+Trenque Lauquen
+Vicente Lopez
+Villa Gesell
+Zarate
+Buenos Aires
+Concepcion del Uruguay
+Gualeguaychu
+Parana
+La Rioja
+Santiago del Estero
+Resistencia
+Roque Saenz Pena
+San Juan
+Catamarca
+General Pico
+Santa Rosa
+Mendoza
+San Martin
+San Rafael
+Posadas
+Formosa
+Neuquen
+San Martin de los Andes
+San Carlos de Bariloche
+Viedma
+Rafaela
+Rosario
+Santa Fe
+Venado Tuerto
+Villa Constitucion
+San Miguel de Tucuman
+Comodoro Rivadavia
+Puerto Madryn
+Rio Grande
+Ushuaia
+Corrientes
+Cordoba
+Rio Cuarto
+San Francisco
+Villa Maria
+Jujuy
+Caleta Olivia
+Rio Gallegos
+Saint John's
+Canberra
+Barwon Downs
+Albury
+Armidale
+Ballina
+Batemans Bay
+Bathurst
+Broken Hill
+Cessnock
+Coffs Harbour
+Dubbo
+Goulburn
+Grafton
+Griffith
+Kiama
+Victoria Point
+Katoomba
+Lismore
+Lithgow
+Maitland
