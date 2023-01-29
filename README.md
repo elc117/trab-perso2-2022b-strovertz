@@ -1,6 +1,6 @@
 # Ruby Funcional: Criação de pessoas ficticias de forma randomica baseado em wordlists
 
-## **Descrição: **
+## Descrição:
 
 Para atender aos critérios propostos, desenvolvi uma aplicação em Ruby capaz de coletar dados de wordlists e gerar pessoas de forma randomica. Cada usuário é armazenando em um arquivo "chave : 'valor'", neste caso Json que é um formato utilizado para troca de dados simples entre sistemas.
 
