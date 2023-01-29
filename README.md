@@ -1,6 +1,11 @@
-# Ruby on Replit
+# Ruby Funcional: Criação de pessoas ficticias de forma randomica baseado em wordlists
 
-This is a template to get you started with Ruby on Replit. It's ready to go so you can just hit run and start coding! /br
+## **Descrição: **
+
+Para atender aos critérios propostos, desenvolvi uma aplicação em Ruby capaz de coletar dados de wordlists e gerar pessoas de forma randomica. Cada usuário é armazenando em um arquivo "chave : 'valor'", neste caso Json que é um formato utilizado para troca de dados simples entre sistemas.
+
+
+## Ruby Funcional:
 
 ## Running the repl
 
