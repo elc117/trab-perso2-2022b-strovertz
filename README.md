@@ -21,6 +21,27 @@ Blocos de código (procedures) que são passados como argumentos para outras fun
 read_wordlist(file).map(&:chomp)
 ```
 Aqui, a função map é usada para aplicar a operação chomp a cada elemento de uma lista de strings. O símbolo & permite que a expressão proc seja passada como um argumento para a função map.
+## Lambda
+```ruby
+def open_datafile
+  names, address, cities, states, cpf = read_data('json/data/data.json')
+  people = (1..100).map do
+    {
+      name: names.sample,
+      address: "#{address.sample} #{rand(100)} #{cities.sample}, #{states.sample} #{rand(10_000)}",
+      email: "#{names.sample.downcase}_#{rand(1000)}@example.com",
+      phone: "+55-#{rand(50_000)}_#{rand(10_000)}",
+      cpf: cpf.sample
+    }
+  end
+  
+  people.each do |person| 
+    person_transformed = -> (person) { person[:name] = person[:name].upcase; person }.call(person)
+    save_person(person_transformed)
+  end
+end
+```
+Nesse exemplo, a lambda -> (person) { person[:name] = person[:name].upcase; person } é passada como um bloco para o método call, transformando o nome da pessoa em maiúsculas antes de salvá-la.
 Expressões lambda são uma forma de definir uma função de uma única linha sem a necessidade de dar-lhe um nome. A expressão :chomp é a forma abreviada de escrever { |s| s.chomp }. Ou seja, o símbolo & permite que o método chomp seja tratado como uma função, tornando possível sua passagem como argumento para a função map.
 
 ### Funções de primeira classe:
