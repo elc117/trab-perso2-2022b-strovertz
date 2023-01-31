@@ -127,15 +127,10 @@ puts cumprimento.call
  Desenvolvimento de jogos com a biblioteca Gosu.<br>
  - O GitHub, Airbnb, Twitch e SoundCloud foram feitos em Ruby!
 
-## Installing packages
+# Duvidas?
+![image](https://user-images.githubusercontent.com/74078237/215773659-1586717f-0b04-424f-8e4a-b3c288dce107.png)
 
-To add packages to your repl, we recommend using the Replit packager interface in the left sidebar or using `bundle install` in the shell. Check out the [Bundle docs here](https://bundler.io/v2.3/#getting-started).
-
-**Warning: Avoid using `gem install` to add packages.**
-
-Beacuse Ruby repls use [Bundle](https://bundler.io/) under the hood to provide a consistent environment that tracks and installs the exact gems and versions needed, we recommend using `bundle install` instead of `gem install`, which may not work as expected.
-
-## Referências
+# Referências
 [1] [Ruby Guide](https://www.rubyguides.com/) <br>
 [2] [Ruby Docs](https://ruby-doc.org/) <br>
 [3] [Programação Funcional em Ruby](https://speakerdeck.com/serradura/programacao-funcional-em-ruby-rubyconf-brasil-2018) <br>
