@@ -10,13 +10,13 @@ Para atender aos critérios propostos, desenvolvi uma aplicação em Ruby capaz 
 
  A aplicação foi desenvolida utilizando técnica de programação funcional, como: 
   - Utilização de procedures
-  - Expressões lambda
+  - Expressões lambda 
   - funções de primeira classe
   - Uso de funções como "map", "reduce" e "filter". 
 
 ### Procedures: 
 Blocos de código (procedures) que são passados como argumentos para outras funções
-### Lambda:
+### Proc:
 ``` ruby
 read_wordlist(file).map(&:chomp)
 ```
