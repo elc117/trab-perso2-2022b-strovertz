@@ -103,6 +103,7 @@ Basta acessar o link disponibilizado abaixo, abrir o shell do replit e seleciona
 https://replit.com/@Gleison-Antonio/Ruby-302#main.rb
 
 # Curiosidades
+![image](https://user-images.githubusercontent.com/74078237/215772897-d4757552-500d-4f42-9ab2-e62137a940a2.png)
 
 - Em Ruby, você pode escrever funções curtas e engraçadas como este "cumprimento_aleatorio" que retorna saudações aleatórias:
 ```ruby
