@@ -44,8 +44,13 @@ def open_datafile
       cpf: cpf.sample
     }
   end
-  people.each { |person| save_person(person) }
+  
+  people.each do |person| 
+    person_transformed = -> (person) { person[:name] = person[:name].upcase; person }.call(person)
+    save_person(person_transformed)
+  end
 end
+
 
 def main
   data = {
