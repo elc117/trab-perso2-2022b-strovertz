@@ -20,7 +20,8 @@ Blocos de código (procedures) que são passados como argumentos para outras fun
 ``` ruby
 read_wordlist(file).map(&:chomp)
 ```
-Aqui, a função map é usada para aplicar a operação chomp a cada elemento de uma lista de strings. O símbolo & permite que a expressão lambda seja passada como um argumento para a função map. A expressão lambda é uma forma de definir uma função de uma única linha sem a necessidade de dar-lhe um nome. A expressão :chomp é a forma abreviada de escrever { |s| s.chomp }. Ou seja, o símbolo & permite que o método chomp seja tratado como uma função, tornando possível sua passagem como argumento para a função map.
+Aqui, a função map é usada para aplicar a operação chomp a cada elemento de uma lista de strings. O símbolo & permite que a expressão proc seja passada como um argumento para a função map.
+Expressões lambda são uma forma de definir uma função de uma única linha sem a necessidade de dar-lhe um nome. A expressão :chomp é a forma abreviada de escrever { |s| s.chomp }. Ou seja, o símbolo & permite que o método chomp seja tratado como uma função, tornando possível sua passagem como argumento para a função map.
 
 ### Funções de primeira classe:
 
