@@ -5,7 +5,9 @@
 
 Para atender aos critérios propostos, desenvolvi uma aplicação em Ruby capaz de coletar dados de wordlists e gerar pessoas de forma randomica. Cada usuário é armazenando em um arquivo "chave : 'valor'", neste caso Json que é um formato utilizado para troca de dados simples entre sistemas.
 
-## Ruby Funcional:
+# Ruby Funcional:
+![image](https://user-images.githubusercontent.com/74078237/215767385-f217ac81-0efe-49da-91bf-af4319f4344f.png)
+
  A aplicação foi desenvolida utilizando técnica de programação funcional, como: 
   - Utilização de procedures
   - Expressões lambda
