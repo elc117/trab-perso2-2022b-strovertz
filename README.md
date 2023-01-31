@@ -78,8 +78,29 @@ Basta acessar o link disponibilizado abaixo, abrir o shell do replit e seleciona
 ## Repositório Repl.it
 https://replit.com/@Gleison-Antonio/Ruby-302#main.rb
 
+# Curiosidades
 
+- Em Ruby, você pode escrever funções curtas e engraçadas como este "cumprimento_aleatorio" que retorna saudações aleatórias:
+```ruby
+def cumprimento_aleatorio
+  [ "Olá!", "Oi!", "E aí!", "Como você está?"].sample
+end
+puts cumprimento_aleatorio
+```
+- O Ruby permite o uso de "procs" que são blocos de código que podem ser passados como argumentos para outras funções:
+```ruby
+saudacoes = [ "Olá!", "Oi!", "E aí!", "Como você está?" ]
+cumprimento = Proc.new do
+  saudacoes.sample
+end
 
+puts cumprimento.call
+```
+- Alguns exemplos de aplicações construídas com Ruby funcional incluem:<br>
+ Análise de dados com ferramentas como o Pandas<br>
+ Processamento de texto com a biblioteca de processamento de linguagem natural NLP<br>
+ Desenvolvimento de jogos com a biblioteca Gosu.<br>
+ - O GitHub, Airbnb, Twitch e SoundCloud foram feitos em Ruby!
 
 ## Installing packages
 
